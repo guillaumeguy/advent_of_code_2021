@@ -1,5 +1,5 @@
 # Advent of Code 2021 in C++
-My attempt at AoC in C++
+My attempt at AoC in C++ (disclaimer: I am a Data Scientist so C++ was stretching it for me. I am using this as an opportunity to understand how lower-level stuff work). 
 
 # Context
 2021 was a very fun adventure and I got to get my hands dirty (I really enjoy coding and problem solving). 
