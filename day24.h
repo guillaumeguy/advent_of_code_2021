@@ -11,11 +11,7 @@
 #include "vector"
 #include "iostream"
 #include "macro.h"
-#include "array"
-#include "queue"
 #include <climits>
-#include <regex>
-#include "fstream"
 
 
 using namespace std;
